@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Adriana Elizabeth Gonzalez",
+        "profession": "Full Stack Developer",
+        "photo": "unaUrl",
+        "about_me": "Desarrolladora Web Full Stack apasionada por la tecnología y aprender nuevas cosas",
+        "skills": [
+            "Javascript",
+            "NodeJs",
+            "ReactJs",
+            "HTML",
+            "CSS",
+            "Mysql"
+        ]
+    }
+]
