@@ -9,6 +9,10 @@ const port = process.env.PORT || 8080;
 const about = require('./data/about');
 const portfolio = require('./data/portfolio');
 
+app.get('/', (req, res)=>{
+    res.send('Funcionando');
+})
+
 app.get('/about', (req, res)=>{
     res.json(about);
 })
