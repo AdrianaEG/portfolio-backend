@@ -1,7 +1,7 @@
 [
     {
         "title": "Digital House",
-        "descripcion-title": "Desarrollo Web Full Stack",
+        "description_title": "Desarrollo Web Full Stack",
         "logo": "https://www.digitalhouse.com/wp-content/uploads/2018/04/logo_vertical.png",
         "state": "Finalizado",
         "date": "Mayo 2020 - Octubre 2020",
@@ -9,7 +9,7 @@
     },
     {
         "title": "Unvime",
-        "descripcion-title": "Programadora Universitaria",
+        "description_title": "Programadora Universitaria",
         "logo": "https://i1.wp.com/www.unvime.edu.ar/wp-content/uploads/2018/04/logo-unvime-blanco-pie.png?w=1080&ssl=1",
         "state": "En curso",
         "date": "2017 - Actualidad",
@@ -17,7 +17,7 @@
     },
     {
         "title": "Unvime",
-        "descripcion-title": "Analista en Sistemas",
+        "description_title": "Analista en Sistemas",
         "logo": "https://i1.wp.com/www.unvime.edu.ar/wp-content/uploads/2018/04/logo-unvime-blanco-pie.png?w=1080&ssl=1",
         "state": "En curso",
         "date": "2017 - Actualidad",
@@ -25,7 +25,7 @@
     },
     {
         "title": "r/ArgentinaPrograma",
-        "descripcion-title": "Desarrollo Web",
+        "description_title": "Desarrollo Web",
         "logo": "https://i1.wp.com/www.unvime.edu.ar/wp-content/uploads/2018/04/logo-unvime-blanco-pie.png?w=1080&ssl=1",
         "state": "En curso",
         "date": "2019 - Actualidad",
