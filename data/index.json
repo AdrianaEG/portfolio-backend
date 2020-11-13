@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Adriana Elizabeth Gonzalez",
+        "job": "Desarrolladora Web Full Stack",
+        "photo": "https://avatars0.githubusercontent.com/u/45184284?s=460&u=9071a18c4b8368e15581a3287eab0e551aab3af6&v=4",
+        "about_me": "Estudiante de Sistemas de la Universidad Nacional de Villa Mercedes, actualmente estoy buscando mi primer trabajo en el area IT, soy una apasionada por la tecnología y por aprender nuevas cosas.",
+        "location":"San Luis, Argentina",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "Sass (Scss)",
+            "Bootstrap",
+            "Javascript",
+            "Node",
+            "MySql",
+            "React",
+            "Figma",
+            "Metodologías Ágiles"
+        ],
+        "cv": "link cv",
+        "github": "https://github.com/AdrianaEG",
+        "linkedin": "https://www.linkedin.com/in/adriana-gonzalez-elizabeth/"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Simón dice - Juego de memoria",
+        "descripcion": "Juego de memoria desarrollado en Javascript, Html5 y Sass(Scss)",
+        "image": "https://i.ibb.co/d6Ds62K/simon-dice.png",
+        "demo": "https://adrianaeg.github.io/simon-says/",
+        "code" : "https://github.com/AdrianaEG/memotest-v1"
+    },
+    {
+        "name": "Clon de Spotify",
+        "descripcion": "Maquetado en css (utilizando el preprocesador sass) y HTML5.",
+        "image": "https://i.ibb.co/ypkx0jV/clon-spotify.png",
+        "demo": "https://adrianaeg.github.io/spotify/",
+        "code" : "https://github.com/AdrianaEG/spotify"
+    },
+    {
+        "name": "Memotest - Juego de memoria",
+        "descripcion": "Juego de memoria desarrollado en Javascript, Html5 y Sass(Scss)",
+        "image": "https://i.ibb.co/GnqgFLV/Sin-t-tulo.png",
+        "demo": "https://adrianaeg.github.io/memotest-v1/",
+        "code" : "https://github.com/AdrianaEG/memotest-v1"
+    },
+    {
+        "name": "E-commerce",
+        "descripcion": "E-commerce de zapatillas en NodeJs y React",
+        "image": "https://i.ibb.co/nLdVS5C/e-commerce.png",
+        "demo": "https://github.com/mar156/grupo_6_ThunderShoes",
+        "code" : "https://github.com/mar156/grupo_6_ThunderShoes"
+    },
+    {
+        "name": "Clon - Youtube",
+        "descripcion": "Maquetado en css y HTML5. Como práctica de Flexbox",
+        "image": "https://i.ibb.co/8bryTL7/clon-youtube.png",
+        "demo": "https://adrianaeg.github.io/clon-youtube/",
+        "code" : "https://github.com/AdrianaEG/clon-youtube"
+    }
+]

@@ -6,19 +6,25 @@ app.use(cors());
 
 const port = process.env.PORT || 8080;
 
-const about = require('./data/about');
-const portfolio = require('./data/portfolio');
+const index = require('./data/index');
+const projects = require('./data/projects');
+const education = require('./data/education');
+
 
 app.get('/', (req, res)=>{
     res.send('Funcionando');
 })
 
-app.get('/about', (req, res)=>{
-    res.json(about);
+app.get('/index', (req, res)=>{
+    res.json(index);
 })
 
-app.get('/portfolio', (req, res)=>{
-    res.json(portfolio);
+app.get('/projects', (req, res)=>{
+    res.json(projects);
+})
+
+app.get('/education', (req, res)=>{
+    res.json(education);
 })
 
 app.listen(port, ()=>{

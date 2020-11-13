@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Digital House",
+        "descripcion-title": "Desarrollo Web Full Stack",
+        "logo": "https://www.digitalhouse.com/wp-content/uploads/2018/04/logo_vertical.png",
+        "state": "Finalizado",
+        "date": "Mayo 2020 - Octubre 2020",
+        "description": "Desarrollo de un E-commerce desde cero, trabajando en equipo, aplicando la metodológia de trabajo Scrum. Tecnologías utilizadas: NodeJs, React, Javascript, Html5, Css3, Mysql, Sequelize. Creación de Apis, consumo de Apis"
+    },
+    {
+        "title": "Unvime",
+        "descripcion-title": "Programadora Universitaria",
+        "logo": "https://i1.wp.com/www.unvime.edu.ar/wp-content/uploads/2018/04/logo-unvime-blanco-pie.png?w=1080&ssl=1",
+        "state": "En curso",
+        "date": "2017 - Actualidad",
+        "description": "Universidad Nacional de Villa Mercedes. Cursada finalizada - 20/22 materias aprobadas. Actualmente me encuentro desarrollando un Sistema para generar encuestas para la Universidad como práctica profesional."
+    },
+    {
+        "title": "Unvime",
+        "descripcion-title": "Analista en Sistemas",
+        "logo": "https://i1.wp.com/www.unvime.edu.ar/wp-content/uploads/2018/04/logo-unvime-blanco-pie.png?w=1080&ssl=1",
+        "state": "En curso",
+        "date": "2017 - Actualidad",
+        "description": "Universidad Nacional de Villa Mercedes. Cursada finalizada - 20/30 materias aprobadas. Entre ellas base de datos(Mysql), algoritmos y estructura de datos, Planeamiento y Control de Gestión, entre otras."
+    },
+    {
+        "title": "r/ArgentinaPrograma",
+        "descripcion-title": "Desarrollo Web",
+        "logo": "https://i1.wp.com/www.unvime.edu.ar/wp-content/uploads/2018/04/logo-unvime-blanco-pie.png?w=1080&ssl=1",
+        "state": "En curso",
+        "date": "2019 - Actualidad",
+        "description": "Curso de desarrollo web en Javascript."
+    }
+
+]
