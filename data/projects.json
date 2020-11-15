@@ -7,11 +7,11 @@
         "code" : "https://github.com/AdrianaEG/memotest-v1"
     },
     {
-        "name": "Clon de Spotify",
-        "description": "Maquetado en css (utilizando el preprocesador sass) y HTML5.",
-        "image": "https://i.ibb.co/ypkx0jV/clon-spotify.png",
-        "demo": "https://adrianaeg.github.io/spotify/",
-        "code" : "https://github.com/AdrianaEG/spotify"
+        "name": "E-commerce",
+        "description": "E-commerce de zapatillas desarrollado en NodeJs y Express. Base de datos MySql y Dashboard en React. Este proyecto se desarrolló en equipo por lo que trabajamos con la metodología Ágil Scrum, y subiendo nuestros cambios de forma colaborativa en Github",
+        "image": "https://i.ibb.co/nLdVS5C/e-commerce.png",
+        "demo": "https://github.com/mar156/grupo_6_ThunderShoes",
+        "code" : "https://github.com/mar156/grupo_6_ThunderShoes"
     },
     {
         "name": "Memotest - Juego de memoria",
@@ -21,11 +21,11 @@
         "code" : "https://github.com/AdrianaEG/memotest-v1"
     },
     {
-        "name": "E-commerce",
-        "description": "E-commerce de zapatillas en NodeJs y React",
-        "image": "https://i.ibb.co/nLdVS5C/e-commerce.png",
-        "demo": "https://github.com/mar156/grupo_6_ThunderShoes",
-        "code" : "https://github.com/mar156/grupo_6_ThunderShoes"
+        "name": "Clon de Spotify",
+        "description": "Maquetado en css (utilizando el preprocesador sass) y HTML5.",
+        "image": "https://i.ibb.co/ypkx0jV/clon-spotify.png",
+        "demo": "https://adrianaeg.github.io/spotify/",
+        "code" : "https://github.com/AdrianaEG/spotify"
     },
     {
         "name": "Clon - Youtube",
