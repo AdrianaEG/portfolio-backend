@@ -5,7 +5,7 @@
         "logo": "https://www.digitalhouse.com/wp-content/uploads/2018/04/logo_vertical.png",
         "state": "Finalizado",
         "date": "Mayo 2020 - Octubre 2020",
-        "description": "Desarrollo de un E-commerce desde cero, trabajando en equipo, aplicando la metodológia de trabajo Scrum. Tecnologías utilizadas: NodeJs, React, Javascript, Html5, Css3, Mysql, Sequelize. Creación de Apis, consumo de Apis"
+        "description": "Desarrollo de un E-commerce desde cero, trabajando en equipo, aplicando la metodológia de trabajo Scrum. Tecnologías utilizadas: NodeJs, React, Javascript, Html5, Css3, Mysql, Sequelize. Creación y consumo de Apis"
     },
     {
         "title": "Unvime",
